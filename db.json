@@ -1,8 +1,8 @@
 {
   "roi": [
-    { "name": "ROI0", "x": 0.5, "y": 0.5, "width": 0.5, "height": 0.5 },
-    { "name": "ROI1", "x": 0.2, "y": 0.2, "width": 0.2, "height": 0.5 },
-    { "name": "ROI2", "x": 0.7, "y": 0.7, "width": 0.7, "height": 0.5 }
+    { "name": "ROI0", "x": 0.5, "y": 0.5, "width": 0.2, "height": 0.2 },
+    { "name": "ROI1", "x": 0.2, "y": 0.2, "width": 0.5, "height": 0.5 },
+    { "name": "ROI2", "x": 0.7, "y": 0.7, "width": 0.3, "height": 0.3 }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
