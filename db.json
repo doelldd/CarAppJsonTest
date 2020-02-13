@@ -12,5 +12,13 @@
         "profile": {
             "name": "typicode"
         }
+    },
+    "logs": {
+        "entered": [
+            { "ROI": "ROI0", "class": "Blue Truck", "time entered": "2014-01-01T23:28:56.782Z" }
+        ],
+        "leave": [
+            { "ROI": "ROI0", "class": "Blue Truck", "time entered": "2015-01-01T23:28:56.782Z" }
+        ]
     }
 }
