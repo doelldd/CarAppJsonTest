@@ -8,17 +8,17 @@
     },
     "logs": {
         "entered": [
-            { "ROI": "ROI0", "class": "Blue Truck", "datetime": "2014-01-01T23:28:56.782Z" },
-            { "ROI": "ROI0", "class": "Chow Truck", "datetime": "2014-01-01T23:28:56.782Z" },
-            { "ROI": "ROI0", "class": "Ford_Bronco", "datetime": "2014-01-01T23:28:56.782Z" },
-            { "ROI": "ROI0", "class": "Hummer_H2", "datetime": "2014-01-01T23:28:56.782Z" },
-            { "ROI": "ROI0", "class": "Beetle_4x4", "datetime": "2014-01-01T23:28:56.782Z" },
-            { "ROI": "ROI0", "class": "Blue Truck", "datetime": "2014-01-01T23:28:56.782Z" },
-            { "ROI": "ROI0", "class": "Beetle_4x4", "datetime": "2014-01-01T23:28:56.782Z" },
-            { "ROI": "ROI0", "class": "Lamborghini_Gallardo", "datetime": "2014-01-01T23:28:56.782Z" }
+            { "ROI": "ROI0", "class": "Blue Truck", "datetime": "2020-02-18T23:28:56.782" },
+            { "ROI": "ROI0", "class": "Chow Truck", "datetime": "2020-02-18T23:28:56.782" },
+            { "ROI": "ROI0", "class": "Ford_Bronco", "datetime": "2020-02-17T23:28:56.782" },
+            { "ROI": "ROI0", "class": "Hummer_H2", "datetime": "2020-02-17T23:28:56.782" },
+            { "ROI": "ROI0", "class": "Beetle_4x4", "datetime": "2020-02-17T23:28:56.782" },
+            { "ROI": "ROI0", "class": "Blue Truck", "datetime": "2020-02-16T23:28:56.782" },
+            { "ROI": "ROI0", "class": "Beetle_4x4", "datetime": "2020-02-16T23:28:56.782" },
+            { "ROI": "ROI0", "class": "Lamborghini_Gallardo", "datetime": "2020-02-01T23:28:56.782" }
         ],
         "leave": [
-            { "ROI": "ROI0", "class": "Blue Truck", "datetime": "2015-01-01T23:28:56.782Z" }
+            { "ROI": "ROI0", "class": "Blue Truck", "datetime": "2020-02-01T23:28:56.782" }
         ]
     }
 }
