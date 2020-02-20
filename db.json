@@ -71,6 +71,9 @@
         ],
         "leave": [
             { "ROI": "ROI0", "class": "Blue_truck", "datetime": "2020-02-01T23:28:56.782" }
+        ],
+        "capacity": [
+            [0.12, 0.89, 0.67]
         ]
     }
 }
