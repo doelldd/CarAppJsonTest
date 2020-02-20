@@ -1,15 +1,16 @@
 {
     "model": {
-        "name": "parking lot model",
+        "name": "Parking Lot Model",
         "size": "13MB",
-        "input-size": "120x120",
-        "label-count": 16,
+        "input_size": "120x120",
+        "label_count": 16,
         "labels": ["59_Chevy_Wagon","90_Volkswagen_Golf","Beetle_4x4","Blue_truck","Chow_Truck","Ford_Bronco","Holden_UTE_SSV_2010","Hummer_H2","Ice_Cream_Van","Lamborghini_Gallardo","Lotus_Europa_Special_72","Road_Mauler","SWAT_Truck","Trailer","Volkswagen_Beetle","Volkswagen_Karmann_Chia"],
         "timings": {
-            "preprocess-time": 6,
+            "preprocess_time": 6,
             "runtime": 60,
-            "postprocess-time": 11
-        }
+            "postprocess_time": 11
+        },
+        "normalization": "Unsigned"
     },
     "status": {
         "roi": [
