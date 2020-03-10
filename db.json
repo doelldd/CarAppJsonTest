@@ -1,4 +1,18 @@
 {
+    "settings": {
+        "resolution": "640x480",
+        "frameRate": 10,
+        "cameraExposure": 0,
+        "brightness": 50,
+        "contrast": "50",
+        "saturation": "50",
+        "captureRect": {
+            "x": 0,
+            "y": 0,
+            "width": 1,
+            "height": 1
+        }
+    },
     "model": {
         "name": "Parking Lot Model",
         "size": "13MB",
